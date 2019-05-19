@@ -1,4 +1,4 @@
-package Modelo;
+package tk.felipe.modelo;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

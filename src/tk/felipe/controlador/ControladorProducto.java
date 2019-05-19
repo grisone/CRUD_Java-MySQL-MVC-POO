@@ -1,9 +1,9 @@
+package tk.felipe.controlador;
 
-package Controlador;
+import tk.felipe.modelo.ConsultasProducto;
+import tk.felipe.modelo.Producto;
+import tk.felipe.vista.FormularioProducto;
 
-import Modelo.ConsultasProducto;
-import Modelo.Producto;
-import Vista.FormularioProducto;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;

@@ -1,5 +1,5 @@
 
-package Modelo;
+package tk.felipe.modelo;
 
 public class Producto {
     private int id;

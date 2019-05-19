@@ -1,10 +1,10 @@
+package tk.felipe.crud.mvc;
+// crud_javamysql_mvc_poo
 
-package crud_javamysql_mvc_poo;
-
-import Controlador.ControladorProducto;
-import Modelo.ConsultasProducto;
-import Modelo.Producto;
-import Vista.FormularioProducto;
+import tk.felipe.controlador.ControladorProducto;
+import tk.felipe.modelo.ConsultasProducto;
+import tk.felipe.modelo.Producto;
+import tk.felipe.vista.FormularioProducto;
 
 public class CRUD_JavaMySQL_MVC_POO {
 
